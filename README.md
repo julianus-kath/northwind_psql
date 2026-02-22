@@ -6,6 +6,12 @@ A simple sql script that will populate a database with the famous northwind exam
 
 ## Getting started:
 
+### Railway deployment
+
+For managed hosting on Railway (private DB service), see:
+
+- [RAILWAY.md](RAILWAY.md)
+
 ### Manually
 
 Use the provided sql file `nortwhind.sql` in order to populate your database.

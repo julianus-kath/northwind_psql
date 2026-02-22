@@ -1,0 +1,13 @@
+.git
+.gitignore
+.DS_Store
+.idea/
+.zencoder/
+
+docker-compose
+docker-compose.yml
+analysis_queries.sql
+test.ipynb
+ER.png
+LICENSE
+README.md
